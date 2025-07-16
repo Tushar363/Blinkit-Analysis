@@ -63,5 +63,4 @@ This project presents a complete **data analysis case study** on a grocery sales
 
 🙋‍♂️ Author
 Tushar Srivastava
-📍 Lucknow, Uttar Pradesh
-📧 tusharsrivastava@email.com
+📧 tusharsvt30@gmail.com
