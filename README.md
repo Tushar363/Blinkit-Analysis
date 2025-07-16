@@ -60,3 +60,8 @@ This project presents a complete **data analysis case study** on a grocery sales
 ├── Blinkit Python.ipynb                # Python EDA notebook
 ├── Dashboard.pbix                      # Power BI dashboard file
 ├── README.md                           # This file
+
+🙋‍♂️ Author
+Tushar Srivastava
+📍 Lucknow, Uttar Pradesh
+📧 tusharsrivastava@email.com
